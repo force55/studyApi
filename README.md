@@ -11,7 +11,7 @@ _This is project for study only_
 * CRUD for articles
 * Authorization and authentication for users
 
-##Methods
+## Methods
 _Articles_
 - Method GET  /articles ( all articles )
 - Method GET  /article/{article} ( article with id {article} )
