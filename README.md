@@ -4,7 +4,7 @@
 
 #### Tutorial get from https://www.toptal.com/laravel/restful-laravel-api-tutorial
 
-###This is project for study only
+_This is project for study only_
 
 <p>CRUD for articles</p>
 <p>Authorization and authentication for users</p>
