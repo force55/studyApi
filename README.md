@@ -188,4 +188,7 @@ $ curl -X DELETE http://127.0.0.1:8000/api/articles/{article} \
  -H "Content-Type: application/json" \
  -H "Authorization: Bearer {token} " \
 ```
+```text
+Without response
+```
 
